@@ -1,0 +1,7 @@
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\bin\Debug\MingZhuTicketReservationApp.exe.config
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\bin\Debug\MingZhuTicketReservationApp.exe
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\bin\Debug\MingZhuTicketReservationApp.pdb
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\obj\Debug\MingZhuTicketReservationApp.csprojAssemblyReference.cache
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\obj\Debug\MingZhuTicketReservationApp.csproj.CoreCompileInputs.cache
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\obj\Debug\MingZhuTicketReservationApp.exe
+C:\Users\fiona\source\repos\MingZhuTicketReservationApp\MingZhuTicketReservationApp\obj\Debug\MingZhuTicketReservationApp.pdb
